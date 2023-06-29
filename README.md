@@ -1,9 +1,9 @@
 ### Yoo, I'm Eric 👋
 
 
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricSUID&count_private=true&show_icons=true)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricSUID&count_private=true&show_icons=true&hide_border=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EricSUID)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EricSUID&hide_border=true)](https://git.io/streak-stats)
 
 
 
