@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Yoo, I'm Eric 👋
+[![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EricSUID)
 
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricSUID&count_private=true&show_icons=true&hide_border=true)
 
