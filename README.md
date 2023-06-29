@@ -1,12 +1,3 @@
-### Yoo, I'm Eric 👋
-
-
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricSUID&count_private=true&show_icons=true&hide_border=true)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EricSUID&hide_border=true)](https://git.io/streak-stats)
-
-
-
 <!--
 **EricSUID/EricSUID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Yoo, I'm Eric 👋
+
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricSUID&count_private=true&show_icons=true&hide_border=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EricSUID&hide_border=true)](https://git.io/streak-stats)
