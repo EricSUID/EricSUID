@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ericsuid?country.x=C2&locale.x=zh_XC)
 
 <!-- Github 统计信息 -->
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricSUID&count_private=true&show_icons=true&hide_border=true)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EricSUID&hide_border=true)](https://git.io/streak-stats)
+<!-- ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricSUID&count_private=true&show_icons=true&hide_border=true) -->
+<!-- Github 统计信息 -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EricSUID&hide_border=true)](https://git.io/streak-stats) -->
