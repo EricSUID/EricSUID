@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com)
 
 <!-- 民以食为天 -->
-[![](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)](http://www.kfc.com.cn/kfccda/index.aspx)
 [![](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)](https://www.mcdonalds.com.cn)
+[![](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)](http://www.kfc.com.cn/kfccda/index.aspx)
 
 <!-- v我50 -->
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/EricSUID)
