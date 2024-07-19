@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Yoo, I'm Eric 👋
 <!-- 社交账号 -->
 [![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orca_m3)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Eric_SUID)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=black&color=black)](https://twitter.com/ericsuidzz)
 [![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/926784167860113459)
 
 <!-- 平台和工具 -->
