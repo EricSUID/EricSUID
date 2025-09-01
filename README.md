@@ -50,3 +50,6 @@ Here are some ideas to get you started:
 <!-- ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricSUID&count_private=true&show_icons=true&hide_border=true) -->
 <!-- Github 统计信息 -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EricSUID&hide_border=true)](https://git.io/streak-stats) -->
+
+![亮色](https://raw.githubusercontent.com/EricSUID/EricSUID/output/github-contribution-grid-snake.svg)
+<!-- ![暗色](https://raw.githubusercontent.com/EricSUID/EricSUID/output/github-contribution-grid-snake-dark.svg) -->
